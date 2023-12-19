@@ -1,0 +1,11 @@
+/**/.idea/
+/**/.DS_Store
+
+/**/docker/redis/*
+!/**/docker/redis/.gitkeep
+/**/docker/apache/logs/*
+!/**/docker/apache/logs/.gitkeep
+/**/docker/mysql/dbdata/*
+/**/docker/postgres/dbdata/*
+/**/docker/nginx/logs/*
+!/**/docker/nginx/logs/.gitkeep
