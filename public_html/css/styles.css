@@ -1,6 +1,6 @@
 .header {
   min-height: 1000px;
-  background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../images/header-background.jpg") center center no-repeat;
+  background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.118), rgba(0, 0, 0, 0.8)), url("../images/header-background.svg") center center no-repeat;
   background-size: cover;
 }
 
